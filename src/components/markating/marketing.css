@@ -1,0 +1,86 @@
+.sets {
+    font-size: 14Px;
+    position: fixed;
+    margin-top: 55px;
+    cursor: pointer;
+}
+
+.hea  p {
+    font-size: 10Px
+}
+.heaa  p {
+    font-size: 10Px
+}
+
+.hea {
+    margin-top: 10px;
+    position: fixed
+}
+
+.heaa {
+    margin-top: 25%;
+    position: fixed
+}
+.divrows .rows {
+    width: 35vh;
+    margin-top: 28%;
+    position: fixed;
+    font-size: 12Px
+
+}
+
+.divrow {
+    font-size: 15Px;
+    position: fixed;
+}
+
+.divrow .row {
+    width: 35vh;
+    margin-top: 5%;
+    position: fixed;
+
+}
+
+.divrow .row img {
+    width: 7.5vh;
+    margin-left: 25%;
+    margin-top: -10px;
+}
+
+.sidenav {
+    float: right;
+    margin-right:22%;
+    margin-top: -3.5%;
+
+
+}
+
+.para {
+    margin: 1% 21%;
+    width: 49%;
+}
+
+@media screen and (max-width: 940px) {
+    .sets {
+        font-size: 12px;
+    }
+
+    .divrow .row {
+        width: 17vh
+    }
+
+    .divrow {
+        font-size: 10px;
+    }
+
+    .divrow .row img {
+        width: 3vh;
+        margin-left: 25%;
+        margin-top: -10px;
+    }
+    .para {
+        margin: 1% 28%;
+        width: 49%;
+    }
+
+}
